@@ -1,6 +1,10 @@
 {
     "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
+      { "id": 1, "title": "json-server", "author": "tankul" },
+      { "id": 2, "title": "fast-api", "author": "tankul" },
+      { "id": 3, "title": "python", "author": "tankul" },
+      { "id": 4, "title": "mui-v5", "author": "tankul" },
+      { "id": 5, "title": "react-101", "author": "tankul" }
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 }
